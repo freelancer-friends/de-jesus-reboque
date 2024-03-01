@@ -1,0 +1,7 @@
+- saber se tem CNPJ
+- os contatos
+    telefone
+    instagram
+    email
+    wathsapp
+- imagens
