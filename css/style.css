@@ -80,7 +80,7 @@ ul {
 
 .banner-bg::before {
   content: '';
-  background-image: url('./img/foto01.png');
+  background-image: url('../img/foto01.png');
   background-size: cover;
   background-position: center;
   position: absolute;
